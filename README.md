@@ -1,4 +1,4 @@
-# Prismfly – Front End Developer Coding Test 💻
+# Prismfly – Front End Developer Coding Challenge 💻
 
 ## Introduction 💡
 
@@ -20,7 +20,9 @@ Welcome to the Front End Developer Challenge! This challenge is designed to asse
 
 ## Design Mockup 🎨
 
-You will find the design mockups for this challenge in the attached Figma file. The mockups include designs for desktop and mobile views. You are expected to replicate this design as pixel perfect as possible.
+You will find the design mockups for this challenge in [this Figma file](https://www.figma.com/file/WIBE9KLcuTjLBZ2tfIJVro/Untitled?type=design&node-id=2-85&mode=design&t=Xk0CJwU8xRUw4s9n-0). The mockups include designs for desktop and mobile views. You are expected to replicate this design as pixel perfect as possible.
+
+`Figma file password: front-end-test-prismfly-&*#`
 
 ## Timeframe ⏱️
 
