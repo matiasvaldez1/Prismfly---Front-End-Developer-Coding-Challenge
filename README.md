@@ -16,7 +16,7 @@ This challenge is designed to assess your skills and creativity in front end web
 
 ### Goal 🎯
 
-Below you will see a Figma design file. **Your task is to translate this design into a fully functional web page component using HTML, SASS, and Vanilla JavaScript.**
+Below you will see a Figma design file. **Your task is to translate this design into a fully functional web page component using HTML, CSS, and Vanilla JavaScript.**
 
 </div>
 <br>
@@ -30,7 +30,7 @@ Below you will see a Figma design file. **Your task is to translate this design 
 
 - **Technologies**: We are giving you the tools and frameworks to build the component. For the carousel, you will use `Slick`. Slick is already included in the `HTML` file, so there is no need to add any additional dependencies.
 
-- **Code Quality**: Write clean, human-readable, and easily maintainable code. Follow best practices for HTML, SASS, and JavaScript. Use appropriate naming conventions and comments where necessary.
+- **Code Quality**: Write clean, human-readable, and easily maintainable code. Follow best practices for HTML, CSS, and JavaScript. Use appropriate naming conventions and comments where necessary.
 <br>
 <br>
 <hr style="height: 1px">
