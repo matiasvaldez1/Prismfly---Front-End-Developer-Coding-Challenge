@@ -1,10 +1,14 @@
 :root {
+  /* colors */
   --primary-color: #F3F4EC;
   --secondary-color: #6C6E71;
   --forest-green: #292D33;
   --charcoal: #202020;
   --sunset: #D4491B;
+
+  /* typography */
   --main-font: "indivisible", sans-serif;
   --support-font: "turnip", serif;
 }
-/*# sourceMappingURL=index.css.map */
+
+/* add your custom styles here 👇 */
