@@ -1,7 +1,7 @@
 # Prismfly – Front End Developer Coding Challenge 💻
 
 
-Welcome to the Front End Developer Challenge! This challenge is designed to assess your skills and creativity in front end web development. You'll be working on a project that involves building a responsive/flexible web page component based on given design specifications.
+This challenge is designed to assess your skills and creativity in front end web development. In this challenge, you'll build a responsive/flexible web page component based on given design specifications.
 <br>
 <br>
 <hr style="height: 1px">
@@ -24,20 +24,20 @@ Below you will see a Figma design file. **Your task is to translate this design 
 
 ### Things to Focus On 🛠️
 
-- **Responsive Design**: Ensure that your component is responsive and displays correctly across different devices and screen sizes (desktop, tablet, and mobile).
+- **Responsive Design**: Ensure that your component is responsive and displays correctly across different devices and screen sizes (desktop, tablet, and mobile). Consider both Chrome and Safari browsers. 
 
-- **Functionality**: Implement any necessary interactivity or functionality according to the design specifications. This might include animations, or any other interactive elements (we are expecting these since the component is a slider/carousel).
+- **Functionality**: Implement any necessary interactivity or functionality according to the design. This might include animations and any other interactive elements. (This is especially important since the component you'll build is a slider/carousel.)
 
-- **Technologies**: We are giving you the tools and frameworks to build the component. For the carousel you will use `slick` which is already included in the `HTML` file, so no need to add the dependency, is already there.
+- **Technologies**: We are giving you the tools and frameworks to build the component. For the carousel, you will use `Slick`. Slick is already included in the `HTML` file, so there is no need to add any additional dependencies.
 
-- **Code Quality**: Write clean, human-readable, and maintainable code. Follow best practices for HTML, SASS, and JavaScript. Use appropriate naming conventions and comments where necessary.
+- **Code Quality**: Write clean, human-readable, and easily maintainable code. Follow best practices for HTML, SASS, and JavaScript. Use appropriate naming conventions and comments where necessary.
 <br>
 <br>
 <hr style="height: 1px">
 
 ### How to Submit Your Work 🤓
 
-Once you have completed the challenge, upload your code to a GitHub repository and provide the link, so make sure you set your repo to public.
+Upload your code to a new GitHub repository. **Make sure the repo is public.** When you are finished, provide our team with the link and we'll review. 
 <br>
 <br>
 <hr style="height: 1px">
@@ -53,7 +53,10 @@ You will find the design mockups for this challenge in [this Figma file](https:/
 
 ### Timeframe ⏱️
 
-Based on internal team performance if you are spending more than `4 hours` to complete this challenge you might not be the right fit for us, however if you spend an extra `hour` but you have a pixel perfect and clean code solution of course we encourage you to submit your test. Please prioritize quality over speed, but make sure to submit your completed project within the given timeframe with a total hour report spent on the challenge.
+Based on internal team performance, this challenge can be completed in `4 hours`. 
+<br>
+<br>
+If you need to spend more than 4 hours on this challenge, you might not be the right fit for us. However, if you need an extra hour to create a pixel perfect and clean code solution, of course we encourage you to submit your test! More time is okay if it produces higher quality work. Make sure to submit your completed project within the given timeframe, and let us know how many total hours you spent on the challenge.
 <br>
 <br>
 <hr style="height: 1px">
